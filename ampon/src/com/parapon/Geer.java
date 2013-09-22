@@ -3,7 +3,7 @@ package com.parapon;
 public class Geer {
 
 	public Geer() {
-		// TODO Auto-generated constructor stub
+		System.out.println("I've got a constructor");
 	}
 	
 	private String tryme;
